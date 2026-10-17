@@ -1,0 +1,17 @@
+# ws-judge-core 依赖锁定（与上游 fitcore-core-real @ 4797485 pyproject 依赖一致，
+# 由 fitcore-core-real/.venv-core-real 实测版本冻结；全部走 pip 国内源安装）
+# 注：audio 可选依赖 sounddevice 仅本机录音用，容器内不需要。
+fastapi==0.143.2
+pydantic==2.14.1
+pydantic_core==2.50.1
+annotated-types==0.8.0
+uvicorn==0.54.0
+httpx==0.28.1
+httpcore==1.0.9
+h11==0.16.0
+anyio==4.15.1
+idna==3.20
+certifi==2026.7.22
+python-multipart==0.0.32
+numpy==2.5.4
+scipy==1.18.1

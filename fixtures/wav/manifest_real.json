@@ -1,0 +1,35 @@
+{
+  "note": "WS-E 真实模式确定性测试 Provider WAV（合成正弦音，非真人录音，供测试 ASR 依据 sha256 返回固定转录）",
+  "files": {
+    "real_E-0002.wav": {
+      "sha256": "3985f4fc3714d505c88a87be6581d727cb457b5f09a83614e8635447b9b4580c",
+      "bytes": 12844,
+      "rate": 16000,
+      "channels": 1
+    },
+    "real_E-0003.wav": {
+      "sha256": "245ec6030f7d94360884cf60f1eb4ad34ffb42bc567095095c29f92618c4aa3c",
+      "bytes": 12844,
+      "rate": 16000,
+      "channels": 1
+    },
+    "real_E-0004.wav": {
+      "sha256": "8ef7bd199e7c8323843e1aca57a0ee39c44bf23325d9662b7303df00ef6527f3",
+      "bytes": 12844,
+      "rate": 16000,
+      "channels": 1
+    },
+    "real_E-0005.wav": {
+      "sha256": "d49f71a7f3f43ed43acab329c8a0bd46c9445f426f3eae7790949e63791edb04",
+      "bytes": 12844,
+      "rate": 16000,
+      "channels": 1
+    },
+    "real_E-0006.wav": {
+      "sha256": "5196e41b963f7c6f039706684188006e0d5ef9e544701b53af084361297238c6",
+      "bytes": 12844,
+      "rate": 16000,
+      "channels": 1
+    }
+  }
+}
